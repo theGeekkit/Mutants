@@ -11,7 +11,7 @@ export class MutantComponent implements OnInit {
   @Input() mutant: Mutant = {  alias: "",
     name: "",
     powers: "",
-    imagePath: ""}
+    imageUrl: ""}
 
   constructor() { }
 

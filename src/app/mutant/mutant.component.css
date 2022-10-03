@@ -1,6 +1,6 @@
 mat-card img{
-  width: 100%; /* Here you can use wherever you want to specify the width and also the height of the <img>*/
-  height: 80%;
+  width: 200%;
+  height: 160%;
 }
 
 mat-card {
