@@ -11,8 +11,20 @@ export class MutantsListComponent implements OnInit {
   mutants: Mutant[] = [ {
     alias:"Sub-Mariner",
     name: "Namor",
-    powers: "Namor is stronger and tougher than most any human or Atlantean. He can go toe-to-toe with some of the strongest beings on Earth and come out unscathed, especially when underwater or doused with H2O, which increases his strength by extreme degrees. Namor has telepathic abilities from his Atlantean heritage that allow to him to communicate and command not only sea life, but also fellow Atlantean soldiers, if need be. Namor increased longevity—he has a much longer lifespan than a human, and shows little signs of aging, despite being born many decades ago. His mutant power is the gift of flight, represented by the tiny wings on his ankles. He can fly quite fast and for indefinite periods. Aside from his natural strength, endurance, and abilities, Namor's intelligence and intuition are exceptional. He's equally at home leading a business in the boardroom as he is leading Atlantean armies.",
-    imageUrl:'https://i.postimg.cc/wjcGC9gT/Namor-First-Look-From-Black-Panther-2-Leaks-Online1400-62c178e9eabb5.jpg'
+    powers: "Stronger and tougher than average human or atlantean. Strength further enhanced when underwater or doused with H20. Telepathic abilities derived from atlantean heritage. Namor also has the ability to fly for indefinite periods due to small wings on his ankles. He also possesses indeterminite longevity as he has shown no signs of aging even though he is several decades old.",
+    imageUrl:'https://i.postimg.cc/j5LpyBN6/Namor.jpg'
+  },
+  {
+    alias:"Angel",
+    name: "Warren Worthington III",
+    powers: "Flight via feathered wings and hollow bones Aerial adaptation Enhanced physical prowess.",
+    imageUrl:'https://thecomicvault.files.wordpress.com/2017/01/comics-marvel_00364983-970x545.jpg'
+  },
+  {
+    alias:"Beast",
+    name: "Henry 'Hank' McCoy",
+    powers: "Superhuman agility and athletic prowess further enhanced by serum that altered his physical appearance to be covered in blue fur and be overall more bestial",
+    imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCI8wWFyPMUh7oDWqHAv2_ZZ3_qqMa2zWPQ&usqp=CAU'
   },
 ]
 

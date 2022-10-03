@@ -1,5 +1,5 @@
 <mat-grid-list cols="5"  >
   <mat-grid-tile *ngFor="let Mutant of mutants" style="width: 100%;">
-    <app-mutant></app-mutant>
+    <app-mutant [mutant]="Mutant"></app-mutant>
   </mat-grid-tile>
 </mat-grid-list>
